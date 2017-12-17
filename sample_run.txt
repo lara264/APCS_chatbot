@@ -1,1 +1,25 @@
-stuff
+Hello :) I'm Awkward
+What's your name?
+Lara
+Nice to meet you Lara
+Tell me about yourself
+Lara:Hey 
+Awkward:Really? 
+Lara:What
+Awkward: I said really?
+Lara:Why
+Awkward: Why not? 
+Lara:That doesn't make sense
+Awkward: It makes sense to me
+Lara:Okay, you're weird
+Awkward: What about me?
+Lara:I like you
+Awkward: Tell me more
+Lara:I don't like bugs
+Awkward: Tell me more
+Lara:I hate bugs
+Awkward: I'm sorry you feel that way
+Lara:Goodbye
+Awkward: Would you like to chat again? (y/n)
+Lara:n
+Awkward: Goodbye :) 
